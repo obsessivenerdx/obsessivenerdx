@@ -1,4 +1,4 @@
-<p align="right">  **" Gleep glorp? "**
+<p align="center">  **" Gleep glorp? "**
   
  
 **A GUIDE TO THE PONYTOWN'S COOLEST ALIEN**
