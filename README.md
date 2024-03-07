@@ -1,7 +1,7 @@
-<p align="center">  **" Gleep glorp? "**
-<p align="center"> 
+**" GLEEP GLORP? "**
+
 **A GUIDE TO THE PONYTOWN'S COOLEST ALIEN**
-<p align="center">
- BONNIE ++ HE/HIM + EY/EM
-</p>
+
+ BONNIE ++ ~~HE/HIM + EY/EM~~
+
  
